@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://projecteuler.net/profile/olbapbetan.png?)
+![](https://projecteuler.net/profile/olbapbetan.png)
